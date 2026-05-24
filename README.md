@@ -28,3 +28,6 @@ Infrastructure • Security • Systems
 * Auditoria e Segurança de Sistemas
 * TryHackMe Labs
 * Security Studies
+
+## TryHackMe
+<img src="https://tryhackme-badges.s3.amazonaws.com/rangelsys3.png" alt="TryHackMe">
