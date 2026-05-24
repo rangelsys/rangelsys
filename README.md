@@ -1,16 +1,30 @@
-## Hi there 👋
+# Rangel
 
-<!--
-**rangelsys/rangelsys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Infrastructure • Security • Systems
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* IT Infrastructure
+* Information Security
+* Systems & Networks
+* Learning Cybersecurity
+
+## Technologies
+
+* Linux
+* Windows Server
+* Networking
+* Virtualization
+* Security Fundamentals
+
+## Current Focus
+
+* Security Auditing
+* Vulnerability Assessment
+* Web Security Basics
+
+## Projects
+
+* Auditoria e Segurança de Sistemas
+* TryHackMe Labs
+* Security Studies
