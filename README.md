@@ -11,7 +11,7 @@ Infrastructure • Security • Systems
 TryHackMe • Security Auditing • Web Security
 
 > status
-Building practical cybersecurity knowledge
+Developing practical security skills
 ```
 
 ---
