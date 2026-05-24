@@ -30,4 +30,4 @@ Infrastructure • Security • Systems
 * Security Studies
 
 ## TryHackMe
-<img src="https://tryhackme-badges.s3.amazonaws.com/rangelsys3.png" alt="TryHackMe">
+[View my TryHackMe profile](https://tryhackme.com/p/rangelsys3)
