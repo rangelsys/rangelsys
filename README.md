@@ -49,6 +49,7 @@ Security Fundamentals
 auditoria-seguranca-sistemas
 tryhackme-labs
 security-documentation
+network-audit-tool
 ```
 
 ---
